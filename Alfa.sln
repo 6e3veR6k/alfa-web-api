@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfa.WebApi", "Alfa.WebApi\Alfa.WebApi.csproj", "{E7BB1A4A-311A-46E9-8F05-526A45148254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfa.Core", "Alfa.Core\Alfa.Core.csproj", "{55A947CD-B5D1-4699-A20C-7307AAB0D289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfa.Business", "Alfa.Business\Alfa.Business.csproj", "{B8053A50-E010-4BCC-913D-6DD27C2D6574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BB1A4A-311A-46E9-8F05-526A45148254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BB1A4A-311A-46E9-8F05-526A45148254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BB1A4A-311A-46E9-8F05-526A45148254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BB1A4A-311A-46E9-8F05-526A45148254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A947CD-B5D1-4699-A20C-7307AAB0D289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A947CD-B5D1-4699-A20C-7307AAB0D289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A947CD-B5D1-4699-A20C-7307AAB0D289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A947CD-B5D1-4699-A20C-7307AAB0D289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8053A50-E010-4BCC-913D-6DD27C2D6574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8053A50-E010-4BCC-913D-6DD27C2D6574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8053A50-E010-4BCC-913D-6DD27C2D6574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8053A50-E010-4BCC-913D-6DD27C2D6574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
